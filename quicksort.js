@@ -26,7 +26,7 @@ function quickSort(arr) {
         }
     }
     
-    // Menggabungkan hasil pengurutan secara rekursif
+    // Menggabungkan hasil pengurutan secara rekursif 
     // 1. Urutkan leftArr secara rekursif
     // 2. Tambahkan pivot
     // 3. Urutkan rightArr secara rekursif
